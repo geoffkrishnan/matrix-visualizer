@@ -1,6 +1,6 @@
 # Matrix Visualizer
 
-Simple 2D-matrix visualizer in React
+Simple 2D-matrix visualizer in React + vanilla CSS
 
 ## Problem
 
