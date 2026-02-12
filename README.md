@@ -11,6 +11,7 @@ Want it to be more dynamic & automatic.
 Couldn't find a similar tool myself online, so will make it myself
 
 ## TODO:
+- make it look purdy
 - Paste 2D-array code and visualize
 - Boolean matrix mode(click to toggle 0/1)
 - Draw arrows between cells
